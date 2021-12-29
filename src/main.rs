@@ -23,7 +23,7 @@ owo_code! {
     }
 
     fuwun main() {
-        for x penetrate 1..=100 {
+        for x penetrate 1..=621 {
             pwint(x.bwead())
         }
     }
